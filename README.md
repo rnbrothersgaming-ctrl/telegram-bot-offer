@@ -7,4 +7,3 @@ Others = Full payment
 
 ## Setup
 Add BOT_TOKEN in environment variables
-h
