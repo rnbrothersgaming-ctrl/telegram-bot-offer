@@ -6,4 +6,4 @@ This bot selects:
 Others = Full payment  
 
 ## Setup
-Add BOT_TOKEN in environment variables
+Add BOT_TOKEN in environment variablesh
